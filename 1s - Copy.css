@@ -1,0 +1,22 @@
+header{
+background-color: lightsteelblue ;
+color: white;
+text-align: center;
+padding: 20px;
+border: 15px;
+border-radius: 20px;
+text-shadow: 5px 5px 5px;
+}
+body{
+    background-image: url(mammals\ p.jpg);
+    background-size: cover;
+}
+body{
+    color: aliceblue;
+}
+body{
+   border: 5px inset;
+   padding: 20px;
+   border-color: silver;
+   border-radius: 30px;
+  }

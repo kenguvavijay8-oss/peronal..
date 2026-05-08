@@ -1,0 +1,24 @@
+ header {
+            background-color:#00695c;
+            color: white;
+            text-align: center;
+            padding: 20px;
+         border: 5px;
+      border-radius: 30px;
+   text-shadow: 5px 5px 5px;}
+  body{
+   background-color: rgb(249, 249, 249);
+  }
+  #h31{
+   color: rgb(93, 11, 15);
+  }
+  footer{
+   border: 10px;
+   border-radius: 10px;
+  }
+  body{
+   border: 5px inset;
+   padding: 20px;
+   border-color: silver;
+   border-radius: 30px;
+  }
